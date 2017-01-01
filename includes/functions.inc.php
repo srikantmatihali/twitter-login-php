@@ -9,9 +9,9 @@ date_default_timezone_set('Asia/Kolkata');
 
 	function dbconnect(){
 
-		$connection = mysqli_connect('localhost','tansihq_srikanth','kanth123!');
+		//$connection = mysqli_connect('localhost','tansihq_srikanth','kanth123!');
 
-		//$connection = mysqli_connect('localhost','skinnu','skinnr!23');
+		$connection = mysqli_connect('localhost','root','');
 
 		if(!$connection){
 

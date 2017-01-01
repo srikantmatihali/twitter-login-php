@@ -15,11 +15,8 @@ $meta_image = $siteurl."125x125.png";
 $meta_keyword = "";
 
 //Twitter
-/*define('CONSUMER_KEY', 'MC1tSnrQV3nNtBgI1GqqxcxWh');
-define('CONSUMER_SECRET', 'N9S0sOwXymgwS60bSq8k6MDUJcmyGeP36igfX5t3ry1CTNIIdB');
-*/
-define('CONSUMER_KEY', 'DT9gS8ZQ4zKqci6AwpG2RwcRf');
-define('CONSUMER_SECRET', '5nrEQT35r0Qh5f8dPGTTxYFiKVRbMqCBMRHTmsdxDM6dk1tKtY');
+define('CONSUMER_KEY', '**********************');
+define('CONSUMER_SECRET', '************************');
 
 define('OAUTH_CALLBACK', $siteurl.'callback.php');
 define('BASEURL', $siteurl);
